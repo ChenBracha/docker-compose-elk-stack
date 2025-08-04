@@ -82,42 +82,8 @@ elk-docker/
 
 ---
 
-## 🧶 How to Upload This Project to GitHub
-
-```
-1. Create a repository at:
-   https://github.com/new
-
-   - Name: elk-docker (or any name you like)
-   - Do NOT initialize with README
-
-2. In your terminal, inside the project folder:
-
-   git init
-   git add .
-   git commit -m "Initial commit: ELK + Filebeat + log lab"
-   git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   git push -u origin master
-
-3. Replace:
-   YOUR_USERNAME and YOUR_REPO_NAME with your actual GitHub details
-```
-
----
-
-## 💡 Use Cases
-
-- SOC analyst hands-on lab
-- SIEM dashboard building and search practice
-- DevSecOps pipelines
-- Custom parser and enrichment testing
-- Cowrie / Suricata honeypot simulations
-- Log filtering and tagging with Filebeat + Logstash
-
----
-
 ## 👨‍💻 Author
 
-Created by [Your Name]  
-For personal learning, threat hunting, and SOC/DevSecOps practice.
+Created by Chen Bracha
+For personal learning, threat hunting, and SIEM/DevSecOps practice.
 
