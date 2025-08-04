@@ -1,0 +1,12 @@
+# Ignore Docker volumes and logs
+*.log
+*.bak
+*.gz
+*.zip
+*.tar
+esdata/
+shared-logs/
+.env
+.terraform/
+*.tfstate*
+
